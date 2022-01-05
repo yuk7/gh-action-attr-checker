@@ -1,0 +1,5 @@
+name:  'Attributes checker'
+description: 'Check file attributes with git'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
